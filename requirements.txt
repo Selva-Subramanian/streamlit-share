@@ -4,6 +4,7 @@ scipy
 face_recognition
 imutils
 cv2
+streamlit_webrtc
 
 opencv-python-headless
 PyArrow
