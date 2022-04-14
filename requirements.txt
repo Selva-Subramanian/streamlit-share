@@ -3,6 +3,7 @@ pandas
 scipy
 face_recognition
 imutils
+cv2
 
 opencv-python-headless
 PyArrow
