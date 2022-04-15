@@ -1,3 +1,4 @@
+imutils
 scipy
 dlib-bin
 opencv-python-headless
