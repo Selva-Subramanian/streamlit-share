@@ -1,3 +1,4 @@
+scipy
 dlib-bin
 opencv-python-headless
 PyArrow
