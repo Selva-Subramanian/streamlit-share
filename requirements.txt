@@ -5,7 +5,6 @@ opencv
 face_recognition
 imutils
 av
-streamlit
 
 opencv-python-headless
 PyArrow
