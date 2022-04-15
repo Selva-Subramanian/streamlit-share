@@ -1,6 +1,7 @@
 # Importing required libraries, obviously
 import logging
 import logging.handlers
+import dlib
 import threading
 from pathlib import Path
 import streamlit as st
