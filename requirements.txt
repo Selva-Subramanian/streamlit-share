@@ -1,3 +1,4 @@
+dlib
 opencv-python-headless
 PyArrow
 absl-py
