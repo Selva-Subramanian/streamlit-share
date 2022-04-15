@@ -1,6 +1,7 @@
 imutils
 scipy
 dlib-bin
+face_recognition
 opencv-python-headless
 PyArrow
 absl-py
