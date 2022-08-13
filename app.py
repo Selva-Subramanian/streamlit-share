@@ -1,5 +1,6 @@
 # import the necessary packages
 import streamlit as st
+pip install streamlit-webrtc 
 from streamlit_webrtc import VideoTransformerBase
 from streamlit_webrtc import webrtc_streamer
 from scipy.spatial import distance as dist
