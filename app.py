@@ -1,6 +1,6 @@
 # import the necessary packages
 import streamlit as st
-from streamlit_webrtc import VideoTransformerBase, webrtc_streamer
+from streamlit-webrtc import VideoTransformerBase, webrtc_streamer
 from scipy.spatial import distance as dist
 from imutils import face_utils
 import face_recognition
